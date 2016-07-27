@@ -8,5 +8,6 @@ A Kyoto Tycoon playground
 `ktserver`
 
 ## Read
-https://github.com/cloudflare/gokabinet/blob/master/kt/kt.go
 http://fallabs.com/kyototycoon/spex.html
+https://github.com/cloudflare/gokabinet/blob/master/kt/kt.go
+https://github.com/swdyh/node-kyoto-tycoon
